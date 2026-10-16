@@ -1,0 +1,7 @@
+{
+  "name": "ScentStory - Luxury Fragrance House",
+  "description": "Every Scent Tells a Story. Discover luxury fragrances, bespoke discovery trios, interactive Scent Lab discovery, and fragrance finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
